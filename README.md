@@ -1,4 +1,4 @@
-# findYourHat
+# Find Your Hat!
 
 ## **Try to find your hat in this interactive terminal game**
 
